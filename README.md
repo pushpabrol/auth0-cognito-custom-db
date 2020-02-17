@@ -19,7 +19,7 @@ This repo contains the files and insturctions required to setup Cognito as a cus
 
 ## Auth0 Setup
 
-- Create a custom database connection
+- Create a database connection
     - Create a custom database connection and choose the name you want to use for it
     - Turn on the toggle `Use my own database` under the `Custom Database` tab
     - Under the database `settings` tab turn on toggles for
